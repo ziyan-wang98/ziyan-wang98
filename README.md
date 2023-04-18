@@ -4,7 +4,7 @@
 
 Hi, I'm **Ziyan Wang**. I am a first year PhD student in King's College Lonodn. I am interest in RL, MARL, GPT and AI Safety.
 Feel free to contact me if you have same interesting or some questions!
-
+<!-- 
 ### 📫 Contact Me on Social Media
 
 <!-- [Facebook][-1] | [Sina Weibo][0] | [Zhihu][1] | [SegmentFault][2] | [V2EX][3] or just ✉️ [Email](mailto:i@imnerd.org) | 💬 [Issue](https://github.com/lizheming/lizheming/issues/me) Me about everything!
@@ -22,17 +22,19 @@ Feel free to contact me if you have same interesting or some questions!
 
 And get all my post articles in my blog 📝 [**zh.eming.li**](https://imnerd.org).  -->
  
-### 💻 Open Source Work Stats
+### 💻 Open Source Work Stats -->
 
-[![Ziyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziyan-wang98)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- ![Ziyan's Github stats](https://github-readme-stats.vercel.app/api?username=ziyan-wang98&show_icons=true) -->
-<!-- 
+![Ziyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziyan-wang98)
+
+
+<!-- ![Ziyan's Github stats](https://github-readme-stats.vercel.app/api?username=ziyan-wang98&show_icons=true)
+
 [-1]: https://www.facebook.com/Austin.Lee.9173/
 [0]: https://m.weibo.cn/u/1694884707
 [1]: https://www.zhihu.com/people/lizheming
 [2]: https://segmentfault.com/u/lizheming
-[3]: https://www.v2ex.com/member/lizheming -->
+[3]: https://www.v2ex.com/member/lizheming  -->
 
 
 ---
