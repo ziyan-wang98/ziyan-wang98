@@ -7,7 +7,3 @@ Feel free to contact me if you have same interesting or some questions!
 
 ![Ziyan's GitHub stats](https://statetest-ziyan-wang98.vercel.app/api?username=ziyan-wang98&show_icons=true&count_private=true&hide=contribs)
 ![Top Langs](https://statetest-ziyan-wang98.vercel.app/api/top-langs/?username=ziyan-wang98&layout=compact)
-
-
----
-⭐️ From [Ziyan Wang](https://github.com/ziyan-wang98)
