@@ -5,16 +5,8 @@
 Hi, I'm **Ziyan Wang**. I am a first year PhD student in King's College Lonodn. I am interest in RL, MARL, GPT and AI Safety.
 Feel free to contact me if you have same interesting or some questions!
 
-![Ziyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziyan-wang98)
-
-
-<!-- ![Ziyan's Github stats](https://github-readme-stats.vercel.app/api?username=ziyan-wang98&show_icons=true)
-
-[-1]: https://www.facebook.com/Austin.Lee.9173/
-[0]: https://m.weibo.cn/u/1694884707
-[1]: https://www.zhihu.com/people/lizheming
-[2]: https://segmentfault.com/u/lizheming
-[3]: https://www.v2ex.com/member/lizheming  -->
+![Ziyan's GitHub stats](https://statetest-ziyan-wang98.vercel.app/api?username=ziyan-wang98&show_icons=true&count_private=true&hide=contribs)
+![Top Langs](https://statetest-ziyan-wang98.vercel.app/api/top-langs/?username=ziyan-wang98&layout=compact)
 
 
 ---
